@@ -37,7 +37,7 @@ superstore-sales-analysis/
 ## Jak uruchomić
 
 ```bash
-git clone https://github.com/dkirsz/superstore-sales-analysis.git
+git clone https://github.com/dkirsz/superstore-analiza-sprzedazy.git
 cd superstore-sales-analysis
 pip install -r requirements.txt
 python src/analiza_sprzedazy.py
